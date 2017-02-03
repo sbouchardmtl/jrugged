@@ -19,7 +19,7 @@
     <groupId>org.fishwife</groupId>
     <artifactId>jrugged</artifactId>
     <packaging>pom</packaging>
-    <version>4.0.0-SNAPSHOT</version>
+    <version>4.0.0-VIDEOTRON-SNAPSHOT</version>
     <name>jrugged</name>
     <url>https://github.com/Comcast/jrugged</url>
 
@@ -194,7 +194,7 @@
         <module>jrugged-aspects</module>
         <module>jrugged-spring</module>
         <module>jrugged-httpclient</module>
-        <module>jrugged-examples</module>
+      <!--  <module>jrugged-examples</module> -->
     </modules>
 
     <properties>
