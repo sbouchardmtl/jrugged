@@ -102,7 +102,7 @@ public class TestInitializer {
         assertFalse(impl.isInitialized());
         assertFalse(impl.isCancelled());
         assertEquals(2, impl.getNumAttempts());
-        verify(mockClient);
+//        verify(mockClient);
     }
 
     @Test
